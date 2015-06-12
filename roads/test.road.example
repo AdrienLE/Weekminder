@@ -1,0 +1,8 @@
+{
+  "username": "<your beeminder username>", 
+  "auth_token": "<your beeminder token>", 
+  "goal": "test", 
+  "weekends": 1, 
+  "weekdays": 10,
+  "day_overrides": {"2014-01-01": 0}
+}
