@@ -1,5 +1,7 @@
 # Weekminder
 
+NOTE: PLEASE ONLY USE THIS SCRIPT FOR NEW GOALS. THERE COULD BE SOME ISSUES WITH USING IT FOR EXISTING GOALS AND YOU WOULD HAVE TO EMAIL BEEMINDER SUPPORT TO FIX YOUR GOAL. IF YOU HAVE AN EXISTING GOAL, ARCHIVE IT AND CREATE IT ANEW BEFORE USING THIS.
+
 ## Features
 
 This allows you to give your beeminder yellow brick road different slopes depending on the day of the week. Useful if you want to spend more time doing the activity you are beemining on the weekends or during certain days of the week.
